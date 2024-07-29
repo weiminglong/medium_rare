@@ -5,7 +5,7 @@
 
 ![image](images/medium_rare_icon.jpg)
 
-## 备案号
-粤ICP备2023135574号
+## ICP主体备案号
+[粤ICP备2023135574号](https://beian.miit.gov.cn/)
 
 
